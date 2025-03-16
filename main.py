@@ -4,6 +4,8 @@ import sys
 
 # 출력 인코딩 설정
 sys.stdout.reconfigure(encoding='utf-8')
+#정상 출력 테스트 
+print('hello mars')
 
 # 파일 경로 설정
 file_path = r"C:\Users\min99\Downloads\mission_computer_main.log"
